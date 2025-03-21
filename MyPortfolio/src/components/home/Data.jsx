@@ -56,7 +56,8 @@ const Data = () => {
         </h1>
         <h3 className="home__subtitle">Full Stack Developer</h3>
         <p className="home__description">
-            I am a passionate software developer with a proven track record of building innovative solutions for businesses. My expertise lies in JavaScript, TypeScript, React, and Node.js. I am always eager to learn and grow as a developer.
+            I am a passionate software developer with a proven track record of building innovative
+             solutions for businesses.I am always eager to learn and grow as a developer.
         </p>
         <a href="#contact" className="button button--flex">
             Say Hello
