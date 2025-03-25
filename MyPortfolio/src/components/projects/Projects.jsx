@@ -12,7 +12,7 @@ const Projects = () => {
         </div>
         <span className='projects__buttton'>View More
           <i className='uil uil-arrow-right projects__button-icon '></i>
-
+          {/* pop page */}
           <div className="projects__modal">
             <div className="projects__modal-content">
               <i className='uil uil-times projects__modal-close'></i>
@@ -22,6 +22,22 @@ const Projects = () => {
                 A Url-shortner, with data analysis and graphical representation
               </p>
               <ul className="projects__modal-projects grid">
+                <li className='projects__modal-projects'>
+                  <i className='uil uil-circle-check projects__modal-icon'></i>
+                  <p className="projects__modal-info">Develop the url shortner</p>
+                </li>
+                <li className='projects__modal-projects'>
+                  <i className='uil uil-circle-check projects__modal-icon'></i>
+                  <p className="projects__modal-info">application web page</p>
+                </li>
+                <li className='projects__modal-projects'>
+                  <i className='uil uil-circle-check projects__modal-icon'></i>
+                  <p className="projects__modal-info">Develop the url shortner</p>
+                </li>
+                <li className='projects__modal-projects'>
+                  <i className='uil uil-circle-check projects__modal-icon'></i>
+                  <p className="projects__modal-info">Develop the url shortner</p>
+                </li>
                 <li className='projects__modal-projects'>
                   <i className='uil uil-circle-check projects__modal-icon'></i>
                   <p className="projects__modal-info">Develop the url shortner</p>
