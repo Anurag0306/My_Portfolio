@@ -78,7 +78,7 @@ const Project = () => {
         {/* second */}
         <article className='project__item'>
           <div className='project__item-image'>
-            <img src={image1} alt="" />
+            <img src={image2} alt="" />
           </div>
           <h3>URL Shortener Application</h3>
           <div className="project__item-cta">
@@ -95,7 +95,7 @@ const Project = () => {
                 <div className="projects__modal-content">
                   <i onClick={() => setToogleState(0)} className='uil uil-times projects__modal-close'></i>
 
-                  <h3 className="projects__modal-title">URL Shortener Application</h3>
+                  <h3 className="projects__modal-title">Email Assistant</h3>
                     <p className="projects__modal-description">
                       A Url-shortner, with data analysis and graphical representation
                     </p>
@@ -132,7 +132,7 @@ const Project = () => {
         {/* third */}
         <article className='project__item'>
           <div className='project__item-image'>
-            <img src={image1} alt="" />
+            <img src={image3} alt="" />
           </div>
           <h3>URL Shortener Application</h3>
           <div className="project__item-cta">
@@ -149,7 +149,7 @@ const Project = () => {
                 <div className="projects__modal-content">
                   <i onClick={() => setToogleState(0)} className='uil uil-times projects__modal-close'></i>
 
-                  <h3 className="projects__modal-title">URL Shortener Application</h3>
+                  <h3 className="projects__modal-title">Stock Photo Generator</h3>
                     <p className="projects__modal-description">
                       A Url-shortner, with data analysis and graphical representation
                     </p>
@@ -186,7 +186,7 @@ const Project = () => {
         {/* fourth */}
         <article className='project__item'>
           <div className='project__item-image'>
-            <img src={image1} alt="" />
+            <img src={image4} alt="" />
           </div>
           <h3>URL Shortener Application</h3>
           <div className="project__item-cta">
@@ -203,7 +203,7 @@ const Project = () => {
                 <div className="projects__modal-content">
                   <i onClick={() => setToogleState(0)} className='uil uil-times projects__modal-close'></i>
 
-                  <h3 className="projects__modal-title">URL Shortener Application</h3>
+                  <h3 className="projects__modal-title">Data Analysis</h3>
                     <p className="projects__modal-description">
                       A Url-shortner, with data analysis and graphical representation
                     </p>
@@ -240,7 +240,7 @@ const Project = () => {
         {/* fifth */}
         <article className='project__item'>
           <div className='project__item-image'>
-            <img src={image1} alt="" />
+            <img src={image5} alt="" />
           </div>
           <h3>URL Shortener Application</h3>
           <div className="project__item-cta">
@@ -257,7 +257,7 @@ const Project = () => {
                 <div className="projects__modal-content">
                   <i onClick={() => setToogleState(0)} className='uil uil-times projects__modal-close'></i>
 
-                  <h3 className="projects__modal-title">URL Shortener Application</h3>
+                  <h3 className="projects__modal-title">Data Analysis</h3>
                     <p className="projects__modal-description">
                       A Url-shortner, with data analysis and graphical representation
                     </p>
